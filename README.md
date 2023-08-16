@@ -10,4 +10,3 @@ I'm Dacey, a budding software engineer in the Boston area 👩🏼‍💻 curren
 - 💬 Ask me about EDUCATION! I am very passionate about creating equity in education, as well as accessibility in technology.
 - 📫 How to reach me: dacey.loving@gmail.com
 - 😄 Pronouns: she/her
--->
