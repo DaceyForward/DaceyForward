@@ -1,6 +1,6 @@
-### Hi There 👋
-
 ![image](https://i.imgur.com/IjKNMre.gif)
+
+### Hi There 👋
 
 I'm Dacey, a budding software engineer in the Boston area 👩🏼‍💻 currently enrolled in a coding bootcamp at General Assembly. I spent the last 11 years in education, including running my own daycare and teaching special education for 5 years. It was during my time as a Special Education Teacher that the pandemic hit and we had to transition to remote learning. While this was a very big obstacle for all students, especially those with special needs and learning disabilities, I also became more aware of the technologies available to increase accessibility for my students. Even now that students have returned to the classroom, many schools have permanently adopted technologies and software that improve accessibility. As I become increasingly interested in those tools, I realized that I could move to software engineering full time and help create a more accessible future! 🙌
 
